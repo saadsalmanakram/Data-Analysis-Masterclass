@@ -1,0 +1,5 @@
+Statistical Distributions
+Statistical distributions represent the frequency or probability of different outcomes or values in a dataset. They provide a summary of how data is spread or distributed across different values, often used to understand the underlying patterns or tendencies in the data.
+
+Plots of the Distribution of at Least One Variable in a Dataset
+These are visual representations of how the values of one or more variables are distributed within a dataset. They help in understanding the shape, spread, central tendency, and variability of the data.
