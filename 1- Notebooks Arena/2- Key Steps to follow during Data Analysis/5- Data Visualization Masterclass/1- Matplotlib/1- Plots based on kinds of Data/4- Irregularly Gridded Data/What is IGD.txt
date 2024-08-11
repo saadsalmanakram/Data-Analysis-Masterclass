@@ -1,1 +1,0 @@
-Irregularly gridded data refers to data organized on a grid that does not have uniform spacing between the grid points. Unlike regular grids, where the grid points are evenly spaced in each dimension, irregularly gridded data has variable spacing between the points, which can be due to the nature of the data or the way it was collected.

@@ -1,1 +1,0 @@
-Gridded data refers to data that is organized in a grid format, where values are assigned to points that are evenly spaced along two or more dimensions. This format is commonly used in various fields like meteorology, oceanography, and geospatial analysis to represent spatially distributed data.

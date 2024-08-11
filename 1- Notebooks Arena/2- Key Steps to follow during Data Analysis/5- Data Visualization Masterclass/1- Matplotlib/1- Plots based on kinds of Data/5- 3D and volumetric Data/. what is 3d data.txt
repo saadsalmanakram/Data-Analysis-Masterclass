@@ -1,1 +1,0 @@
-3D data refers to data that represents objects or phenomena in three dimensions—typically using coordinates in a Cartesian system (x, y, z). This type of data is used to describe the shape, size, and position of objects in a three-dimensional space.
